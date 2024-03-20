@@ -1,4 +1,4 @@
-# banking_detction
+# banking_assitant
 
 
 (Python, Data Science, Deep Learning)
